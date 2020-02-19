@@ -9,3 +9,4 @@
  * "cheese casserole".vreplace("o") ➞ "chooso cossorolo"
  * "stuffed jalapeno poppers".vreplace("e") ➞ "steffed jelepene peppers"
  
+![Imgur](https://i.imgur.com/JgQGFx7.png?1)
